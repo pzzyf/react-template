@@ -1,6 +1,6 @@
 # React Template
 
-> 参考了yang1206的模板 [yang1206/react-template](https://github.com/yang1206/react-template)
+> 参考了yang1206的react模板 [react-template](https://github.com/yang1206/react-template)
 
 vite搭建项目
 
@@ -14,4 +14,4 @@ vite搭建项目
 
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
-配置路径别名 typescript config + vite resolve
+配置typescript + vite
