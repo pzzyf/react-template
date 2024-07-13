@@ -15,3 +15,7 @@ vite搭建项目
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
 配置typescript + vite
+
+配置路由
+
+- [@tanstack/react-router](https://github.com/tanstack/router)
