@@ -1,7 +1,9 @@
+import Test from '@/views/test/test'
+
 function App() {
   return (
     <>
-      123
+      <Test />
     </>
   )
 }
