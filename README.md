@@ -17,5 +17,3 @@ vite搭建项目
 配置typescript + vite
 
 配置路由
-
-- [@tanstack/react-router](https://github.com/tanstack/router)
