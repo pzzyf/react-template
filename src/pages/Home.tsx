@@ -1,5 +1,9 @@
+import { Counter } from '../components/Counter'
+
 export function Home() {
   return (
-    <div>123555</div>
+    <div className="flex flex-col items-center justify-center">
+      <Counter />
+    </div>
   )
 }
